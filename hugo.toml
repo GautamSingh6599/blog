@@ -1,0 +1,4 @@
+baseURL = 'https://gautamsingh6599.github.io/blog'
+languageCode = 'en-us'
+title = 'Writings'
+theme = 'PaperMod'

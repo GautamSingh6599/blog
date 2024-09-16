@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Writings</title>
+    <link>http://localhost:1313/blog/posts/</link>
+    <description>Recent content in Posts on Writings</description>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Sep 2024 00:40:57 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/blog/posts/about-me/</link>
+      <pubDate>Tue, 17 Sep 2024 00:40:57 +0530</pubDate>
+      <guid>http://localhost:1313/blog/posts/about-me/</guid>
+      <description>About Me Hi, I’m Gautam Singh, a 3rd senior at the Indian Institute of Science Education and Research (IISER) Kolkata, pursuing a 5-year BS-MS dual degree program with a major in Mathematics and a minor in Computer Science. My academic journey, combined with a strong passion for computational techniques, has allowed me to delve into a wide array of topics, from real analysis to graph algorithms.
+Here, I share my thoughts, notes, and insights on the subjects that fascinate me, with a focus on mathematics, computational science, and algorithm design.</description>
+    </item>
+  </channel>
+</rss>
