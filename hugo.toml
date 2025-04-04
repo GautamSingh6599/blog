@@ -1,0 +1,30 @@
+baseurl = "/"
+languageCode = "en-US"
+title = "Gautam Singh"
+theme = "hugo-paged"
+# ignoreFiles = [ "\\.Rmd$", "\\.Rmarkdown$", "_cache$" ]
+footnotereturnlinkcontents = "↩"
+
+[outputs]
+home = ["html", "rss", "json"]
+
+[[menu.main]]
+name = "Github"
+url = "https://github.com/gautamsingh6599"
+weight = 10
+
+[menu.main.params]
+class = ["optional"]
+
+[params]
+description = "A website built through Hugo with the hugo-paged theme."
+footer = "&copy; [Gautam Singh](https://gautamsingh6599.github.io/) {Year}"
+
+[params.logo.en]
+alt = "Gautam Singh"
+
+[markup.highlight]
+codeFences = false
+
+[markup.goldmark.renderer]
+unsafe = true

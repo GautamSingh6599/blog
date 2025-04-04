@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Gautam Singh</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Home on Gautam Singh</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Plain Markdown Post</title>
+      <link>//localhost:1313/blog/test/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/test/</guid>
+      <description>&lt;h2 id=&#34;sample-text&#34;&gt;Sample Text&lt;/h2&gt;&#xA;&lt;h3 id=&#34;third-level-header&#34;&gt;Third-level header&lt;/h3&gt;&#xA;&lt;h4 id=&#34;fourth-level-header&#34;&gt;Fourth-level header&lt;/h4&gt;&#xA;&lt;p&gt;A paragraph (with a footnote):&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; dolor sit amet, consectetur adipiscing elit, sed do eiusmod&#xA;tempor incididunt ut labore et dolore &lt;em&gt;magna aliqua&lt;/em&gt;. Ut enim ad minim veniam,&#xA;quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo&#xA;consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum&#xA;dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,&#xA;sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Gautam Singh, a third-year senior at the Indian Institute of Science Education and Research (IISER) Kolkata. I&amp;rsquo;m pursuing a 5-year BS-MS dual degree with a major in Mathematics and a minor in Computer Science.&lt;/p&gt;&#xA;&lt;p&gt;I enjoy building and exploring solutions at the intersection of theory and application, with particular interests in theoretical computer science and statistical learning theory.&lt;/p&gt;&#xA;&lt;p&gt;I also led the SlashDot programming club, where I fostered a community of over 600 science and mathematics enthusiasts through workshops, coding sessions, and contests.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>//localhost:1313/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/search/</guid>
+      <description>&lt;p&gt;The searching is performed via fuse.js. For the search keywords, white spaces act as the &lt;code&gt;AND&lt;/code&gt; operator, and &lt;code&gt;|&lt;/code&gt; acts as the &lt;code&gt;OR&lt;/code&gt; operator. To match an exact phrase, double quote it. For example, &lt;code&gt;R Markdown&lt;/code&gt; matches articles that contain both &lt;code&gt;R&lt;/code&gt; and &lt;code&gt;Markdown&lt;/code&gt;, &lt;code&gt;R | Markdown&lt;/code&gt; matches articles that contain &lt;code&gt;R&lt;/code&gt; or &lt;code&gt;Markdown&lt;/code&gt;, and &lt;code&gt;&amp;quot;R Markdown&amp;quot;&lt;/code&gt; matches articles that contain the whole phrase &lt;code&gt;R Markdown&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;style type=&#34;text/css&#34;&gt;&#xA;.main {&#xA;  width: 100%;&#xA;}&#xA;#search-input {&#xA;  width: 100%;&#xA;  font-size: 1.2em;&#xA;  padding: .5em;&#xA;}&#xA;.search-results b {&#xA;  background-color: yellow;&#xA;}&#xA;.search-preview {&#xA;  margin-left: 2em;&#xA;}&#xA;.single .main a, .single .main h2 {&#xA;  border-bottom: none;&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;input type=&#34;search&#34; id=&#34;search-input&#34;&gt;&#xA;&lt;div class=&#34;search-results&#34;&gt;&#xA;&lt;section&gt;&#xA;&lt;h2 class=&#34;toc-line&#34;&gt;&lt;a target=&#34;_blank&#34;&gt;&lt;/a&gt;&lt;span class=&#34;dots&#34;&gt;&lt;/span&gt;&lt;span class=&#34;page-num small&#34;&gt;&lt;/span&gt;&lt;/h2&gt;&#xA;&lt;div class=&#34;search-preview&#34;&gt;&lt;/div&gt;&#xA;&lt;/section&gt;&#xA;&lt;/div&gt;&#xA;&lt;script src=&#34;https://cdn.jsdelivr.net/npm/fuse.js@6.6.2&#34; defer&gt;&lt;/script&gt;&#xA;&lt;script src=&#34;https://cdn.jsdelivr.net/npm/@xiee/utils/js/fuse-search.min.js&#34; defer&gt;&lt;/script&gt;</description>
+    </item>
+  </channel>
+</rss>
